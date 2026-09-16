@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>zh_CN</string>
+    <key>CFBundleDisplayName</key>
+    <string>Duo Privacy Demo</string>
+    <key>CFBundleExecutable</key>
+    <string>DuoPrivacyDemo</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.mj.duoprivacydemo</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>Duo Privacy Demo</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.7.0</string>
+    <key>CFBundleVersion</key>
+	<string>11</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>LSUIElement</key>
+    <false/>
+    <key>NSCameraUsageDescription</key>
+    <string>仅在本机判断你是否仍面向屏幕；画面不会保存或上传。</string>
+    <key>NSScreenCaptureUsageDescription</key>
+    <string>仅在本机把当前主屏幕作为 Duo 毛玻璃效果的背景；画面不会录制、保存或上传。</string>
+</dict>
+</plist>
